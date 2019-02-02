@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+    <string name="botonSelec">Seleccionar Contacto</string>
+    <string name="nombreContact">Nombre</string>
+    <string name="telefonoContact">Teléfono</string>
+    <string name="correoContact">Correo</string>
+</resources>
